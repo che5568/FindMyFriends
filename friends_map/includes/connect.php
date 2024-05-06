@@ -4,8 +4,8 @@ ini_set('display_errors', '1');
 ini_set('display_startup_errors', '1');
 error_reporting(E_ALL);
    $db_name = 'mysql:host=localhost;dbname=friends_map';
-   $db_user_name = 'che5568'; // Your MySQL username
-$db_user_pass = 'M@stercheif1177'; // Your MySQL password
+   $db_user_name = ''; // Your MySQL username
+$db_user_pass = ''; // Your MySQL password
 
 
    try {
