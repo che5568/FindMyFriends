@@ -27,4 +27,4 @@ How to Use:
     Access the application through a web browser and create an account to get started.
 
 
-[![Video Demo](https://i.vimeocdn.com/video/944204848.jpg)](https://vimeo.com/944204848)
+[![Video Demo](https://upload.wikimedia.org/wikipedia/commons/e/e8/YouTube_Diamond_Play_Button.png)](https://vimeo.com/944204848)
