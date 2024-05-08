@@ -25,3 +25,6 @@ How to Use:
     Import the database schema from the provided SQL file.
     Configure the database connection in the includes/connect.php file.
     Access the application through a web browser and create an account to get started.
+
+
+[![Video Demo](https://i.vimeocdn.com/video/944204848.jpg)](https://vimeo.com/944204848)
